@@ -51,4 +51,3 @@ function createPetals(count) {
     setTimeout(() => petal.remove(), 7000);
   }
 }
-
